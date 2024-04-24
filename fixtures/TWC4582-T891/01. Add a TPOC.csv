@@ -1,0 +1,2 @@
+Domain,Facility,Tool,Equipment,TPOC,Utility,Service Size,Pipe Class,Line Size,Line Size Type,Vacuum Foreline Max Length,Temp Max,Temp Min,Temp Unit,Pressure Max,Pressure Min,Pressure Unit,Flow Max,Flow Avg,Flow MOD Max,Flow MOD Avg,M Avg,M Peak,Flow Unit,LPOC,FPOC,PopOut,Remarks,Confidence,Comments,Delete,Confirm Delete,BL,X,Y,Z,ConnectionStatus,EventDate,FpocDP,DPSeg,Justification,DBTransactionType
+D1D,OR Sandbox,Tool-JTUAT 4055/L1,Main Unit,M99,EXSC,"6""",11AI,"6""",STUB,,,,,,,,200,100,250,212,,,CFM,,M99,,Tool Submited,POR,Tool Submited,,,F-Fab,,,,Spare,,,,,A

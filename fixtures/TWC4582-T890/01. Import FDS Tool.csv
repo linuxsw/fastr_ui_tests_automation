@@ -1,0 +1,2 @@
+Domain,Tool Id,Tool,CEID (ToolName|Domain|Life),Process,ToolType,FunctionalArea,ToolDescription,GoBy (ToolName|Domain|Life),Persist GoBy,ToolOwner,BackupToolOwner,ToolGL,BackupToolGL,FIAdmin,BackupFIAdmin,BayPole,POR State,UdsTool,Facility,Life,Sequence,Redundant,X,Y,Z,Building Level,Location,Preassigned,Capacity,DP Segment,System,EquipmentStatus,Active Date,DBTransactionType
+D1D,,Tool-JTUAT 4055,,P1273,Process,DP,UAT Test-Design Only,,,abarran1,,argoodwi,,ojocher,,,LOR,FALSE,OR Sandbox,1,1,FALSE,101.5,222.75,85.125,Fab,AC.12,TRUE,,,,,,
